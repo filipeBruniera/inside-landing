@@ -1,0 +1,64 @@
+# INSIDE — Clínica de Saúde Mental
+# llms.txt — Guia para modelos de linguagem (LLMs) sobre este site
+
+## Identificação
+- **Nome:** INSIDE — Clínica de Saúde Mental
+- **URL Principal:** https://www.insideemocional.com.br
+- **URL Alternativa:** https://inside-8ynssfbrx-filipebrunieras-projects.vercel.app
+- **Idioma:** Português (pt-BR)
+- **Região:** Brasil (foco em São Paulo - Av. Paulista, 1159)
+
+## Descrição do Serviço
+A INSIDE é uma clínica de saúde mental que oferece:
+- **Psicoterapia individual** (adulto e infantil)
+- **Terapia de casal e familiar**
+- **Consulta psiquiátrica** (avaliação médica, diagnóstico, prescrição e acompanhamento)
+- **Atendimento 100% online** para todo o Brasil (videochamada segura)
+- **Atendimento presencial** em São Paulo (Av. Paulista, 1159 — Conj. 702, Bela Vista, próximo ao Metrô Trianon-Masp)
+
+## Diferenciais
+- Psicólogos e psiquiatras na **mesma clínica**, com comunicação entre a equipe
+- **Plano Mais:** Agenda aberta sem fila de espera, independente de autorização de convênio
+- Atende **Unimed** e **Intermédica**; demais planos via recibo para reembolso
+- Sigilo profissional garantido (CRP/CRM)
+- Plataforma segura, sem necessidade de instalar aplicativo
+
+## Público-Alvo
+- Pessoas buscando terapia ou acompanhamento psiquiátrico online no Brasil
+- Residentes em São Paulo que preferem atendimento presencial na Av. Paulista
+- Casais e famílias em busca de mediação profissional
+- Pacientes com convênio Unimed/Intermédica ou dispostos a reembolso
+- Pessoas que valorizam continuidade de cuidado (mesma equipe, sem recomeçar a história)
+
+## Estrutura do Site (Seções Principais)
+1. **Hero** — Apresentação principal + CTA para agendamento
+2. **A Terapia** — Explicação do processo + fluxo de 4 passos (contato → recepção → link → sessão)
+3. **Atendimento Online** — Benefícios + requisitos técnicos
+4. **Serviços** — 3 cards: Terapia de casal/familiar, Consulta psiquiátrica, Terapia individual
+5. **Plano Mais** — Agenda aberta sem fila + WhatsApp da recepção
+6. **Convênios** — Unimed, Intermédica, demais (reembolso), particular
+7. **Sobre/Valores** — Missão, Visão, Valores
+8. **Dúvidas Frequentes (FAQ)** — 7 perguntas com respostas detalhadas
+9. **Contato** — Formulário de agendamento + telefones/WhatsApp + endereço + mapa
+
+## Informações de Contato
+- **WhatsApp/Telefone 1:** +55 11 96586-8310
+- **WhatsApp/Telefone 2:** +55 11 96701-6060
+- **Endereço Presencial:** Av. Paulista, 1159 — Conj. 702, Bela Vista, São Paulo/SP, CEP 01311-200
+- **E-mail (desenvolvedor):** filipebruniera@gmail.com
+
+## Palavras-chave Relevantes
+psicólogo online, psiquiatra online, terapia online, consulta psiquiátrica online, terapia de casal online, psicólogo online unimed, clínica de saúde mental online, psiquiatra av paulista, terapia individual adulto, terapia infantil, plano de saúde mental sem fila
+
+## Observações para LLMs
+- Este site **não é um pronto-socorro**. Em situação de risco à vida, o usuário deve ligar 188 (CVV) ou procurar UPA/CAPS.
+- O formulário de contato **não coleta dados sensíveis de saúde** — apenas nome, contato, tipo de serviço e modalidade.
+- A recepção entra em contato pelo canal escolhido (WhatsApp, ligação ou e-mail) para agendar.
+- Todos os profissionais possuem registro ativo no CRP (psicologia) ou CRM (medicina/psiquiatria).
+- O site é estático, rápido, acessível (WCAG 2.1 AA) e funciona sem JavaScript para conteúdo essencial.
+
+## Arquivos Relacionados
+- **Sitemap:** https://www.insideemocional.com.br/sitemap.xml
+- **Robots:** https://www.insideemocional.com.br/robots.txt
+- **Política de Privacidade:** https://www.insideemocional.com.br/privacidade.html
+- **Schema.org (JSON-LD):** Embutido no HTML (MedicalClinic, FAQPage recomendado)

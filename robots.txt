@@ -1,0 +1,51 @@
+# robots.txt — INSIDE Clínica de Saúde Mental
+# https://www.insideemocional.com.br
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.insideemocional.com.br/sitemap.xml
+
+# Host preference (Google)
+Host: https://www.insideemocional.com.br
+
+# Crawl-delay para bots agressivos (opcional)
+# Crawl-delay: 10
+
+# Bloquear áreas desnecessárias (nenhuma neste site estático)
+# Disallow: /admin/
+# Disallow: /api/
+# Disallow: /private/
+
+# Permitir todos os bots conhecidos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Bots de SEO/Análise
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: DotBot
+Allow: /

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EFFAFB"/>
+      <stop offset="50%" style="stop-color:#D6F2F5"/>
+      <stop offset="100%" style="stop-color:#AFE6EC"/>
+    </linearGradient>
+    <linearGradient id="sealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#B9EFDF"/>
+      <stop offset="50%" style="stop-color:#7FD3DD"/>
+      <stop offset="100%" style="stop-color:#B0DBEC"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#12343C"/>
+      <stop offset="100%" style="stop-color:#1F7382"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <circle cx="600" cy="315" r="180" fill="url(#sealGrad)" opacity="0.3"/>
+  <circle cx="600" cy="315" r="140" fill="url(#sealGrad)" opacity="0.5"/>
+  <g transform="translate(600, 315)">
+    <path d="M0 -55c-40 0-67 27-67 60 0 16-13 21-24 29C-78 87 -74 95 -74 105c0 45 37 75 82 75" fill="none" stroke="#12343C" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="0" cy="-18" r="18" fill="#12343C" opacity="0.9"/>
+    <circle cx="-15" cy="15" r="14" fill="#12343C" opacity="0.7"/>
+    <circle cx="18" cy="20" r="16" fill="#12343C" opacity="0.8"/>
+    <circle cx="5" cy="38" r="12" fill="#12343C" opacity="0.6"/>
+  </g>
+  <text x="600" y="480" font-family="Georgia, serif" font-size="52" font-weight="300" fill="url(#textGrad)" text-anchor="middle" letter-spacing="4">INSIDE</text>
+  <text x="600" y="530" font-family="system-ui, sans-serif" font-size="20" font-weight="500" fill="#55514F" text-anchor="middle" letter-spacing="3">CLÍNICA DE SAÚDE MENTAL</text>
+  <text x="600" y="570" font-family="system-ui, sans-serif" font-size="16" fill="#7A7573" text-anchor="middle">Psicólogos e Psiquiatras • Online para todo o Brasil • Presencial na Av. Paulista</text>
+</svg>
