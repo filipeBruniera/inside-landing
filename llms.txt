@@ -13,13 +13,14 @@ A INSIDE é uma clínica de saúde mental que oferece:
 - **Psicoterapia individual** (adulto e infantil)
 - **Terapia de casal e familiar**
 - **Consulta psiquiátrica** (avaliação médica, diagnóstico, prescrição e acompanhamento)
-- **Atendimento 100% online** para todo o Brasil (videochamada segura)
-- **Atendimento presencial** em São Paulo (Av. Paulista, 1159 — Conj. 702, Bela Vista, próximo ao Metrô Trianon-Masp)
+- **Acompanhamento nutricional com bioimpedância**
+- **Atendimento 100% online** para todo o Brasil e exterior (videochamada segura)
+- **Atendimento presencial** em São Paulo (Av. Paulista, 1159 — Sala 1316, 13º andar, Bela Vista, próximo ao Metrô Trianon-Masp)
 
 ## Diferenciais
 - Psicólogos e psiquiatras na **mesma clínica**, com comunicação entre a equipe
 - **Plano Mais:** Agenda aberta sem fila de espera, independente de autorização de convênio
-- Atende **Unimed** e **Intermédica**; demais planos via recibo para reembolso
+- Atende **Unimed**; demais planos via recibo para reembolso
 - Sigilo profissional garantido (CRP/CRM)
 - Plataforma segura, sem necessidade de instalar aplicativo
 
@@ -27,16 +28,17 @@ A INSIDE é uma clínica de saúde mental que oferece:
 - Pessoas buscando terapia ou acompanhamento psiquiátrico online no Brasil
 - Residentes em São Paulo que preferem atendimento presencial na Av. Paulista
 - Casais e famílias em busca de mediação profissional
-- Pacientes com convênio Unimed/Intermédica ou dispostos a reembolso
+- Pacientes com convênio Unimed ou dispostos a reembolso
+- Pessoas que buscam cuidado integrado de mente e corpo (nutrição com bioimpedância)
 - Pessoas que valorizam continuidade de cuidado (mesma equipe, sem recomeçar a história)
 
 ## Estrutura do Site (Seções Principais)
 1. **Hero** — Apresentação principal + CTA para agendamento
 2. **A Terapia** — Explicação do processo + fluxo de 4 passos (contato → recepção → link → sessão)
 3. **Atendimento Online** — Benefícios + requisitos técnicos
-4. **Serviços** — 3 cards: Terapia de casal/familiar, Consulta psiquiátrica, Terapia individual
+4. **Serviços** — 4 cards: Terapia de casal/familiar, Consulta psiquiátrica, Terapia individual, Nutrição e bioimpedância
 5. **Plano Mais** — Agenda aberta sem fila + WhatsApp da recepção
-6. **Convênios** — Unimed, Intermédica, demais (reembolso), particular
+6. **Convênios** — Unimed, demais (reembolso), particular
 7. **Sobre/Valores** — Missão, Visão, Valores
 8. **Dúvidas Frequentes (FAQ)** — 7 perguntas com respostas detalhadas
 9. **Contato** — Formulário de agendamento + telefones/WhatsApp + endereço + mapa
@@ -44,7 +46,7 @@ A INSIDE é uma clínica de saúde mental que oferece:
 ## Informações de Contato
 - **WhatsApp/Telefone 1:** +55 11 96586-8310
 - **WhatsApp/Telefone 2:** +55 11 96701-6060
-- **Endereço Presencial:** Av. Paulista, 1159 — Conj. 702, Bela Vista, São Paulo/SP, CEP 01311-200
+- **Endereço Presencial:** Av. Paulista, 1159 — Sala 1316, 13º andar, Bela Vista, São Paulo/SP, CEP 01311-200
 - **E-mail (desenvolvedor):** filipebruniera@gmail.com
 
 ## Palavras-chave Relevantes

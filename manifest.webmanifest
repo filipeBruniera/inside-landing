@@ -1,7 +1,7 @@
 {
   "name": "INSIDE — Clínica de Saúde Mental",
   "short_name": "INSIDE",
-  "description": "Psicólogos e psiquiatras online para todo o Brasil. Atendimento presencial em São Paulo (Av. Paulista). Unimed e Intermédica.",
+  "description": "Terapia, psiquiatria e nutrição com bioimpedância. Online para Brasil e exterior. Presencial em São Paulo (Av. Paulista). Unimed.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FAF7F2",
