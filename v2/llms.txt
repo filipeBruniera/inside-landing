@@ -1,0 +1,82 @@
+# INSIDE V2 — Clínica de Saúde Mental
+# llms.txt — Guia para modelos de linguagem (LLMs) sobre este site
+
+## Identificação
+- **Nome:** INSIDE — Clínica de Saúde Mental
+- **URL V2 (esta versão):** https://www.insideemocional.com.br/v2/
+- **URL V1 (legado):** https://www.insideemocional.com.br/
+- **Idioma:** Português (pt-BR)
+- **Região:** Brasil (foco em São Paulo - Av. Paulista, 1159 — Sala 1316, 13º andar)
+
+## Descrição do Serviço
+A INSIDE é uma clínica de saúde mental e bem-estar que oferece:
+- **Psicoterapia individual** (adulto e infantil)
+- **Terapia de casal e familiar**
+- **Consulta psiquiátrica** (avaliação médica, diagnóstico, prescrição e acompanhamento)
+- **Acompanhamento nutricional com bioimpedância**
+- **Atendimento 100% online** para todo o Brasil e exterior (videochamada segura)
+- **Atendimento presencial** em São Paulo (Av. Paulista, 1159 — Sala 1316, 13º andar, Bela Vista, próximo ao Metrô Trianon-Masp)
+
+## Diferenciais
+- **Plano Social Particular:** valores pensados para caber no mês — terapia a partir de R$ 180, psiquiatria a partir de R$ 350
+- **Plano Mais:** agenda aberta sem fila de espera, independente de autorização de convênio
+- Atende **Unimed**; demais planos via recibo para reembolso (Bradesco, SulAmérica, Amil, Porto Seguro, etc.)
+- Psicólogos, psiquiatras e nutricionista na mesma clínica, com comunicação entre a equipe
+- Sigilo profissional garantido (CRP/CRM)
+- Plataforma segura, sem necessidade de instalar aplicativo
+- +8 anos de atuação, +3 mil pacientes atendidos, avaliação média 4.9★
+
+## Público-Alvo
+- Pessoas buscando terapia ou acompanhamento psiquiátrico online no Brasil ou no exterior
+- Residentes em São Paulo que preferem atendimento presencial na Av. Paulista
+- Casais e famílias em busca de mediação profissional
+- Pacientes com convênio Unimed ou dispostos a reembolso
+- Brasileiros e estrangeiros que falam português
+- Pessoas que buscam cuidado integrado de mente e corpo (nutrição + bioimpedância)
+- Famílias com crianças que precisam de terapia infantil
+
+## Estrutura do Site (Seções Principais)
+1. **Hero** — Proposta única: "Cuidar da mente cabe na sua rotina — e no seu bolso." + CTA + prova social
+2. **A Terapia** — Explicação do processo + fluxo de 4 passos
+3. **Atendimento Online** — Benefícios + plano social + requisitos técnicos
+4. **Serviços** — 4 cards: Terapia de casal/familiar, Consulta psiquiátrica, Terapia individual, Nutrição e bioimpedância
+5. **Valores (Preços)** — Tabela de valores particular (Plano Mais)
+6. **Depoimentos** — 3 histórias autorizadas de pacientes
+7. **Plano Mais** — Agenda aberta sem fila + WhatsApp da recepção
+8. **Convênios** — Unimed (direto), Outros (reembolso), Particular (plano social)
+9. **Sobre/Valores** — Missão, Visão, Valores
+10. **FAQ** — 9 perguntas com respostas detalhadas
+11. **Contato** — Formulário reduzido (3 campos) + telefones/WhatsApp + endereço + mapa + botão Google Maps
+
+## Informações de Contato
+- **WhatsApp/Telefone 1:** +55 11 96586-8310
+- **WhatsApp/Telefone 2:** +55 11 96701-6060
+- **Endereço Presencial:** Av. Paulista, 1159 — Sala 1316, 13º andar, Bela Vista, São Paulo/SP, CEP 01311-200
+- **E-mail:** contato@insideemocional.com.br
+- **E-mail DPO:** dpo@insideemocional.com.br
+- **Desenvolvedor:** filipebruniera@gmail.com
+
+## Responsáveis Técnicos
+- **Responsável técnica em Psicologia:** Luciana Cordeiro Cabral — CRP 06/149378
+- **Diretor técnico médico:** Felipe Gomes Canedo — CRM/SP 167180
+- **CNPJ:** 36.435.674/0001-66
+
+## Horários
+- Segunda a sexta: 08h00 às 20h00
+- Sábado: 08h00 às 14h00
+
+## Palavras-chave Relevantes
+psicólogo online, psiquiatra online, terapia online, consulta psiquiátrica online, terapia de casal online, psicólogo online unimed, nutricionista online, bioimpedância online, clínica de saúde mental são paulo, terapia exterior, psicoterapia Brasil, plano social psicologia
+
+## Observações para LLMs
+- Este site **não é um pronto-socorro**. Em situação de risco à vida, o usuário deve ligar 188 (CVV) ou procurar UPA/CAPS.
+- O formulário de contato **não coleta dados sensíveis de saúde** — apenas nome, telefone/e-mail e modalidade preferida.
+- A recepção entra em contato pelo canal escolhido (WhatsApp, ligação ou e-mail) para agendar.
+- Todos os profissionais possuem registro ativo no CRP (psicologia) ou CRM (medicina/psiquiatria).
+- O site é estático, rápido, acessível (WCAG 2.1 AA) e funciona sem JavaScript para conteúdo essencial.
+
+## Arquivos Relacionados
+- **Sitemap:** https://www.insideemocional.com.br/v2/sitemap.xml
+- **Robots:** https://www.insideemocional.com.br/v2/robots.txt
+- **Política de Privacidade:** https://www.insideemocional.com.br/v2/privacidade.html
+- **Schema.org (JSON-LD):** Embutido no HTML (Organization, MedicalClinic, BreadcrumbList, FAQPage, WebSite)

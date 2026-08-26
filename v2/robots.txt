@@ -1,0 +1,33 @@
+# robots.txt — INSIDE V2
+# https://www.insideemocional.com.br/v2/
+
+User-agent: *
+Allow: /
+Disallow: /v2/privacidade.html
+
+Sitemap: https://www.insideemocional.com.br/v2/sitemap.xml
+Host: https://www.insideemocional.com.br
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
