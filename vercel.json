@@ -8,7 +8,7 @@
   "outputDirectory": ".",
   "rewrites": [
     {
-      "source": "/(?!v2/|llms\\.txt$|sitemap\\.xml$|robots\\.txt$|manifest\\.webmanifest$|icon-192\\.svg$|icon-512\\.svg$|og-inside\\.svg$|og-inside\\.png$)(.*)",
+      "source": "/",
       "destination": "/src_index.html"
     }
   ],
